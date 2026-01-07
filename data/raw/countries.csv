@@ -1,0 +1,71 @@
+country_id,name,region,risk_score
+DZ,Bouvet Island (Bouvetoya),North America,0.12
+AR,Saint Vincent and the Grenadines,APAC,0.3
+IS,Ecuador,Europe,0.69
+GR,Burundi,EMEA,0.17
+LK,Bosnia and Herzegovina,LATAM,0.13
+GD,Saint Vincent and the Grenadines,North America,0.27
+ST,Benin,EMEA,0.58
+UA,Jamaica,EMEA,0.26
+AU,Antarctica (the territory South of 60 deg S),EMEA,0.44
+BW,Cuba,LATAM,0.57
+HT,Madagascar,North America,0.71
+UY,Anguilla,Europe,0.66
+TJ,Congo,APAC,0.32
+VC,Pakistan,Europe,0.87
+ME,Mayotte,APAC,0.18
+NL,Cyprus,LATAM,0.18
+PE,Namibia,APAC,0.58
+IT,Sudan,North America,0.68
+AF,Senegal,EMEA,0.2
+DJ,Qatar,LATAM,0.16
+NO,Guam,APAC,0.76
+GM,Serbia,APAC,0.56
+LU,Bosnia and Herzegovina,North America,0.14
+BY,Guinea-Bissau,North America,0.78
+LY,Netherlands,North America,0.4
+IN,Sri Lanka,LATAM,0.61
+BD,Saint Lucia,APAC,0.23
+PK,Mauritania,APAC,0.27
+CM,Uzbekistan,APAC,0.66
+MT,Belgium,North America,0.59
+TG,French Polynesia,Europe,0.53
+YE,Niger,Europe,0.23
+ML,Morocco,LATAM,0.32
+FI,Romania,EMEA,0.28
+BJ,Aruba,APAC,0.77
+HR,Denmark,North America,0.28
+JP,Belgium,North America,0.74
+BZ,Hong Kong,Europe,0.83
+ZW,Syrian Arab Republic,APAC,0.27
+MM,Central African Republic,LATAM,0.42
+MN,Guinea,LATAM,0.21
+GE,Paraguay,Europe,0.3
+IQ,Reunion,EMEA,0.53
+KZ,Oman,EMEA,0.44
+BN,New Caledonia,EMEA,0.42
+SN,Saint Lucia,Europe,0.51
+HN,Central African Republic,North America,0.7
+PL,Hong Kong,North America,0.22
+IR,Uzbekistan,Europe,0.73
+TH,Cyprus,LATAM,0.41
+LA,Greece,LATAM,0.52
+BG,Denmark,EMEA,0.79
+KW,Iran,North America,0.65
+GH,United States Minor Outlying Islands,APAC,0.19
+TN,Turkey,LATAM,0.23
+SB,Indonesia,Europe,0.51
+BA,Kuwait,North America,0.8
+CV,Estonia,APAC,0.77
+CU,Egypt,EMEA,0.59
+CH,Monaco,Europe,0.4
+SO,Estonia,Europe,0.53
+AE,Myanmar,EMEA,0.83
+NP,Ukraine,EMEA,0.36
+TV,Iran,North America,0.19
+SA,Bermuda,Europe,0.8
+TW,Australia,North America,0.17
+CG,Cape Verde,LATAM,0.75
+UG,Bahrain,EMEA,0.23
+MV,Hong Kong,EMEA,0.8
+SM,El Salvador,EMEA,0.7

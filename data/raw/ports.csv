@@ -1,0 +1,351 @@
+port_id,name,country_id,capacity_teu,status
+PORT_76a796df,Lake Jenniferside Port,IN,2624865,Operational
+PORT_36b2e565,Kaylamouth Port,BG,3142478,Operational
+PORT_0e866595,West Ryanmouth Port,BA,4351740,Operational
+PORT_ea22bf16,Lake Nancyview Port,CV,1025056,Operational
+PORT_c2ee1df8,New Rita Port,YE,1894897,Operational
+PORT_f3eecd6f,Meaganhaven Port,AU,2846067,Operational
+PORT_1b175612,East Nathaniel Port,IS,4945091,Operational
+PORT_9d31417f,New Stephanie Port,MT,4946193,Operational
+PORT_4bb59de4,New Mariotown Port,CM,70321,Operational
+PORT_355949dc,West Natashaport Port,BW,503868,Operational
+PORT_1b567a40,North John Port,MT,575394,Operational
+PORT_0dc9a83e,North Jessicaland Port,LK,2781835,Operational
+PORT_7a08f02f,East Donna Port,BW,4323054,Operational
+PORT_50024730,West Allison Port,TG,2346036,Operational
+PORT_52bdfa66,Brandtside Port,NP,1807148,Operational
+PORT_f58a6aca,Lake Larry Port,SM,1119912,Operational
+PORT_f8c9e01b,Samuelhaven Port,SO,2048408,Operational
+PORT_36a97966,Martinezbury Port,SO,3424666,Operational
+PORT_e4674bc3,West Andrewside Port,LY,801262,Operational
+PORT_75cb5c50,New Jeffrey Port,TJ,3625919,Operational
+PORT_f77a9ff1,Lake Crystalbury Port,SN,3563235,Operational
+PORT_837945fa,North Micheleland Port,KW,3927686,Operational
+PORT_163dd752,West Elizabeth Port,ST,835588,Operational
+PORT_8f570302,New David Port,UA,3387432,Operational
+PORT_05440d6c,Sanchezfort Port,KZ,926615,Operational
+PORT_94a67664,Leeville Port,YE,1617174,Operational
+PORT_fbf6b5a2,Gomezchester Port,LY,4508690,Operational
+PORT_97633958,Shieldston Port,CV,1185934,Operational
+PORT_f4fa3ca9,North Richardmouth Port,TN,1549209,Operational
+PORT_b7ce265d,East Jamesside Port,HR,3890805,Operational
+PORT_bfa9e897,Taylorburgh Port,YE,642374,Operational
+PORT_00ccd49d,Stevenland Port,BA,4626463,Operational
+PORT_9bc7e9f6,Mortonside Port,TJ,434365,Operational
+PORT_fdf92479,North Deniseside Port,SM,133797,Operational
+PORT_1bc62af2,North Sarabury Port,UY,1992894,Operational
+PORT_6a413151,South Todd Port,GM,3419248,Operational
+PORT_453864fb,Port Richard Port,NP,4047927,Operational
+PORT_fc714fd5,East Nicholasfurt Port,PK,3374169,Operational
+PORT_f9c1cf69,Saramouth Port,UA,1391076,Operational
+PORT_8fcaf82b,Rodneyside Port,IR,28080,Operational
+PORT_8ade8204,Mooreport Port,TH,2234684,Operational
+PORT_d58358b7,North Beth Port,CU,2402843,Operational
+PORT_b1e022ab,Lake Leeton Port,TN,4672122,Operational
+PORT_09b47064,Shawhaven Port,NP,1308529,Operational
+PORT_623ee1a8,North Susan Port,LY,2498965,Operational
+PORT_7ace6371,Port Jacobland Port,PK,500593,Operational
+PORT_b1286c95,South David Port,SM,521349,Operational
+PORT_36721877,New Brooke Port,MN,489537,Operational
+PORT_9a617622,South Dianeshire Port,ST,4910436,Operational
+PORT_b292c92f,Sarahborough Port,AE,4228214,Operational
+PORT_dd2fdc33,Johnfurt Port,UG,1330641,Operational
+PORT_ab62ab4b,Lake Debbie Port,UA,4269974,Operational
+PORT_b189882e,Stewartland Port,HT,1568812,Operational
+PORT_77772fd7,South Christineshire Port,AU,580097,Operational
+PORT_3535451d,North Amandahaven Port,TG,3397114,Operational
+PORT_ac132b47,Davidstad Port,NL,4788783,Operational
+PORT_6a2da1d3,East Mikeburgh Port,YE,4866325,Operational
+PORT_182b6880,Bassport Port,GD,697726,Operational
+PORT_59dcb731,Lake Lisaport Port,GH,4906198,Operational
+PORT_7668e017,East Josephville Port,CG,2663902,Operational
+PORT_921a23cd,West Juan Port,FI,1723450,Operational
+PORT_28ecd8ba,Lake Matthew Port,MN,2012242,Operational
+PORT_f537933e,Williamview Port,FI,3330092,Operational
+PORT_000fe016,North Cynthiaview Port,PE,2526557,Operational
+PORT_a4806f10,North Matthewberg Port,CU,2662286,Operational
+PORT_c841456e,Evanmouth Port,BW,88143,Operational
+PORT_c52657a8,Hoffmanville Port,CU,4732732,Operational
+PORT_0adf7bdd,Lake Rebeccaside Port,TJ,624555,Operational
+PORT_15112c62,Port Mikeside Port,MV,1798067,Operational
+PORT_1b2f3862,South David Port,SA,2234662,Operational
+PORT_722e9dd8,Michaelton Port,PE,2937698,Operational
+PORT_3a337c49,Jasonbury Port,AU,2059206,Operational
+PORT_7d0cbbd3,West Kimberlychester Port,PL,2400647,Operational
+PORT_218ac363,East Michelle Port,NO,3685758,Operational
+PORT_bb9a0ad7,South Angel Port,SM,2547697,Operational
+PORT_598e0d65,Kimberlychester Port,UG,75624,Operational
+PORT_78283be9,West Erik Port,ZW,878946,Operational
+PORT_ceda54a6,South Monicafort Port,IT,2228500,Operational
+PORT_635548c9,East Lisa Port,ME,907882,Operational
+PORT_42768bfe,Baileybury Port,DJ,2294622,Operational
+PORT_cb9881ed,North Donna Port,JP,1776889,Operational
+PORT_2d880466,Murphyland Port,KZ,1717898,Operational
+PORT_03eeedd3,Michaelhaven Port,FI,4249678,Operational
+PORT_bff1b6ec,Frazierside Port,NP,2116557,Operational
+PORT_73cdf6bb,Sheilaville Port,ST,784255,Operational
+PORT_83aa5470,Gregoryview Port,TN,2330961,Operational
+PORT_f2e9b092,North Candacestad Port,GD,39743,Operational
+PORT_6ee8cca0,Samuelhaven Port,IQ,1107394,Operational
+PORT_f306cc40,South Rachelborough Port,FI,1365447,Operational
+PORT_5d72ec49,Bradleychester Port,BA,4637830,Operational
+PORT_6307f993,New Saraside Port,TN,4715227,Operational
+PORT_1c77696e,West Ryan Port,AR,948466,Operational
+PORT_2e9a9653,Cindyville Port,BW,1260357,Operational
+PORT_f19d2c34,Williamchester Port,SM,312225,Operational
+PORT_687a6a1e,Richardport Port,PL,4896444,Operational
+PORT_9b4daa15,East Robert Port,AF,3615312,Operational
+PORT_bf01ec8c,Byrdburgh Port,PE,360885,Operational
+PORT_21d30733,Richardtown Port,MM,3068918,Operational
+PORT_dfe6bbca,Justinchester Port,GD,3011521,Operational
+PORT_5452c4ec,Stevenmouth Port,BD,2103207,Operational
+PORT_2281476c,New Thomas Port,VC,2976871,Operational
+PORT_3c2f59d6,Lake Christopher Port,KW,1306487,Operational
+PORT_1e3cc527,Clarencebury Port,TG,1373163,Operational
+PORT_d8a3f7b0,Jeffreyborough Port,LU,3468576,Operational
+PORT_a9492071,North Brandon Port,GR,1514586,Operational
+PORT_ae399882,Carrland Port,IQ,3463700,Operational
+PORT_d8e6f648,Perryshire Port,YE,2248128,Operational
+PORT_f4264016,Lake Heather Port,NO,916771,Operational
+PORT_603c8c31,Rossberg Port,IR,334845,Operational
+PORT_6c567f8d,Port Michelleville Port,SO,1875909,Operational
+PORT_be36faf8,Robinsonhaven Port,IN,3871303,Operational
+PORT_31d42a70,Williamsbury Port,BN,2570126,Operational
+PORT_ca2dcad1,South Dennismouth Port,MT,1880018,Operational
+PORT_14821c26,Stephaniemouth Port,GR,1630090,Operational
+PORT_dc30cdfa,Rivasside Port,BG,2763660,Operational
+PORT_5d57ed82,Merrittfort Port,HR,592343,Operational
+PORT_d56dc9d3,Greenbury Port,HR,2955627,Operational
+PORT_8e8bdca9,Katiehaven Port,TW,3362745,Operational
+PORT_724e17c7,Simsview Port,MV,2787886,Operational
+PORT_d10342f0,Jonesport Port,GR,977556,Operational
+PORT_b606be4f,West Matthew Port,FI,1507935,Operational
+PORT_0409b6f9,East Edwardfurt Port,FI,330924,Operational
+PORT_5f5fe1c1,Lake Jason Port,VC,3655385,Operational
+PORT_828b5d87,Russellside Port,BN,2641316,Operational
+PORT_acec02b7,Perryborough Port,SB,4300127,Operational
+PORT_02475ced,Priceshire Port,ME,3241253,Operational
+PORT_344c225a,Port Nicoleshire Port,LY,2146767,Operational
+PORT_8cb3f446,Woodsstad Port,GD,3667915,Operational
+PORT_95317551,Karenchester Port,DZ,4371407,Operational
+PORT_7f3b42a7,South Jeffrey Port,MV,1662850,Operational
+PORT_860abd67,Tuckerfurt Port,HN,3627984,Operational
+PORT_ffa79db8,Elizabethfurt Port,AU,2779918,Operational
+PORT_01da7128,Port Tanner Port,MN,1055432,Operational
+PORT_87f0ea72,New Amanda Port,ZW,4264051,Operational
+PORT_7a4e255c,Vargastown Port,MM,3435848,Operational
+PORT_163a5cdf,Lake Roymouth Port,GE,3385579,Operational
+PORT_3c7f4f8e,North Jorge Port,BZ,4660748,Operational
+PORT_15abb50b,Jasonmouth Port,PE,1619271,Operational
+PORT_0e8b263c,Kathleenfurt Port,GH,3190501,Operational
+PORT_ccb60a2f,Karenchester Port,LU,4784000,Operational
+PORT_14ed80b0,Maryfort Port,ZW,3416405,Operational
+PORT_a1abc7d1,Lake Amberstad Port,DZ,2559087,Operational
+PORT_f8c09aa2,Lake Casey Port,JP,1773140,Operational
+PORT_2cf541fb,Port Anthonybury Port,SB,4875264,Operational
+PORT_a3f84a48,Port Andrew Port,GE,3910603,Operational
+PORT_09c5ed3a,East David Port,BA,3719105,Operational
+PORT_76614264,New Staciemouth Port,PK,4298038,Operational
+PORT_e2f9280d,Katieburgh Port,SO,1433474,Operational
+PORT_7dd0aa10,Port Loriport Port,HT,2390572,Operational
+PORT_b98a80fe,New Anthonyport Port,TW,2821762,Operational
+PORT_d2a54d6c,Sandersborough Port,UY,1980220,Operational
+PORT_1619c188,New Hannahbury Port,MM,1894422,Operational
+PORT_e5498c46,Lake Kendraville Port,IN,1246094,Operational
+PORT_ac78f497,West Amandastad Port,GR,397668,Operational
+PORT_8b313291,New Deborahtown Port,YE,3995732,Operational
+PORT_c31b3b9b,Shortville Port,BW,3830307,Operational
+PORT_116a834e,Yumouth Port,GH,4839077,Operational
+PORT_728801d5,South Gregory Port,LY,3231044,Operational
+PORT_a220a37e,Christinaside Port,TV,3362531,Operational
+PORT_da4650dc,Marshallshire Port,YE,1247918,Operational
+PORT_0be269a3,Marcusbury Port,DZ,904119,Operational
+PORT_7ed1938b,West Nicolebury Port,TN,1845772,Operational
+PORT_0677b4a3,Hudsonfurt Port,LU,4354944,Operational
+PORT_45c2463b,Anthonymouth Port,CH,431262,Operational
+PORT_3eac9e67,South Jason Port,YE,1028029,Operational
+PORT_49f1f5ec,Matthewview Port,CU,1128529,Operational
+PORT_fde56341,New Stacyland Port,CH,4465457,Operational
+PORT_7a71dc8e,Lake Richard Port,MN,3722574,Operational
+PORT_cac930f6,Lake Thomas Port,SA,3589760,Operational
+PORT_eb102271,Westtown Port,CV,1345113,Operational
+PORT_4c35d1e5,West Jeffreybury Port,SO,3785458,Operational
+PORT_ddff1daa,Elizabethstad Port,FI,2083997,Operational
+PORT_8fb29b82,Transtad Port,HR,4382979,Operational
+PORT_8ac35d86,Barajasside Port,NP,2016939,Operational
+PORT_6c041e70,Michaelmouth Port,HR,3699918,Operational
+PORT_b1c30874,Kristopherbury Port,BW,2406861,Operational
+PORT_ae22ab59,Lake Jamesville Port,TG,2289311,Operational
+PORT_29aef041,East Javier Port,IQ,2691918,Operational
+PORT_158f014a,Hillshire Port,SM,685934,Operational
+PORT_e43af5ec,Tinaborough Port,IT,1275259,Operational
+PORT_c75cca89,Jeremyburgh Port,MT,3223132,Operational
+PORT_dbfb49b9,Alexisside Port,DJ,1804766,Operational
+PORT_c216e826,West Brandon Port,AU,3490164,Operational
+PORT_c50b2fc4,New Kellyberg Port,KW,2785634,Operational
+PORT_13609f93,Garciatown Port,SM,3918456,Operational
+PORT_358b5d6b,Taylormouth Port,GH,532322,Operational
+PORT_ee47f357,Jackton Port,BD,3534419,Operational
+PORT_80989ff1,Shelleyfort Port,TH,4909613,Operational
+PORT_ab5040aa,Port Cameronfort Port,IS,4839240,Operational
+PORT_2c3628cb,New Crystalton Port,IR,4011196,Operational
+PORT_69eba7e9,East Lisa Port,DZ,2960766,Operational
+PORT_fe2e012a,Christopherbury Port,ZW,3281445,Operational
+PORT_f829c158,New Kathybury Port,GH,4524921,Operational
+PORT_ac49326e,Hayesmouth Port,SM,1860012,Operational
+PORT_f2779109,Michellechester Port,NP,1850642,Operational
+PORT_da142020,Ashleyton Port,BJ,3666057,Operational
+PORT_5ff6a75d,Port Jaredborough Port,NP,253477,Operational
+PORT_6f7cc18a,Donnaburgh Port,TH,2829658,Operational
+PORT_2bd51aec,East Andrea Port,BG,1394495,Operational
+PORT_63e810f5,North Ricky Port,CH,1080619,Operational
+PORT_961a76fc,Carterbury Port,MV,236210,Operational
+PORT_a01b0411,Jasminemouth Port,LA,4975156,Operational
+PORT_e219370d,Lake Jesusview Port,GR,714202,Operational
+PORT_4ddda879,South Danny Port,TN,1148329,Operational
+PORT_f77bb5ba,Lake Edward Port,CH,1534453,Operational
+PORT_3a577103,Margaretland Port,ST,2192349,Operational
+PORT_53636478,East Laurashire Port,IR,2756033,Operational
+PORT_fc4d33bb,Scottmouth Port,PK,3824294,Operational
+PORT_b45e938e,Hollyview Port,GE,2841159,Operational
+PORT_8017b762,Kimton Port,IR,2344185,Operational
+PORT_ae804274,Navarroview Port,GH,2126206,Operational
+PORT_9e475e8c,North Jeremyshire Port,HT,3955219,Operational
+PORT_18f414c2,Port Emilyview Port,IS,4534974,Operational
+PORT_88ce7929,Port Katelynfort Port,ST,2945680,Operational
+PORT_9180ce9f,Moonburgh Port,CM,585612,Operational
+PORT_f842a3df,Waltersfort Port,GD,270298,Operational
+PORT_5ee5bd00,South Michaelmouth Port,YE,1682358,Operational
+PORT_fed3fb58,Elizabethburgh Port,IS,1288275,Operational
+PORT_d5cf3a29,Robertfort Port,TG,1068818,Operational
+PORT_42401c2d,Elainefurt Port,SO,969568,Operational
+PORT_b7a1694d,South Christopherview Port,PK,3910987,Operational
+PORT_005107ef,Darrellfurt Port,ML,3104517,Operational
+PORT_fe2043ee,Lake Mollymouth Port,GM,970771,Operational
+PORT_136f8080,Brownhaven Port,NO,2619183,Operational
+PORT_9efc8a62,Cindyfort Port,VC,4864359,Operational
+PORT_a00a0c82,Wolfborough Port,GR,2626887,Operational
+PORT_4f3acbb2,Andreaport Port,IR,3337378,Operational
+PORT_03d1baed,Gilmorefort Port,IN,647504,Operational
+PORT_fd46c760,North Teresabury Port,YE,864810,Operational
+PORT_0564b4eb,West Andrea Port,ZW,1025483,Operational
+PORT_b75063ab,Davisville Port,GD,2922556,Operational
+PORT_9a3a29ff,Valentineberg Port,MV,3603495,Operational
+PORT_0e3c222a,Cantuport Port,PL,588451,Operational
+PORT_f0261777,Robertfort Port,SA,2872454,Operational
+PORT_952cd88a,Sanchezside Port,AR,3533708,Operational
+PORT_30b50c64,South James Port,NP,895324,Operational
+PORT_f658c6d3,Port Chad Port,SB,3048253,Operational
+PORT_b64ed36d,Morganhaven Port,CU,1293382,Operational
+PORT_528306e2,Loriport Port,SB,1487543,Operational
+PORT_90e6dfc6,Maryshire Port,CG,2275615,Operational
+PORT_82ea81da,Grimesmouth Port,MV,4065871,Operational
+PORT_4db99b76,Reedside Port,CH,3663863,Operational
+PORT_73fffbdc,Gibsonmouth Port,BJ,2713686,Operational
+PORT_54e749d8,Lake John Port,YE,736981,Operational
+PORT_ee0e7724,Hallchester Port,HR,3791601,Operational
+PORT_1464dc93,West Juliefurt Port,YE,3908257,Operational
+PORT_b7486c4e,Mcneilberg Port,IR,2831899,Operational
+PORT_7eb16589,Hannaberg Port,GR,4156543,Operational
+PORT_4bf7cc20,Mollymouth Port,GE,1535383,Operational
+PORT_f6f6ff26,New Reneetown Port,NP,1789390,Operational
+PORT_9be74493,South Monica Port,SN,2177217,Operational
+PORT_2334e3ec,North Terrance Port,KZ,2355945,Operational
+PORT_68f50e63,Matthewfurt Port,HR,4672313,Operational
+PORT_cd851dea,Port Markside Port,AR,4343783,Operational
+PORT_c04a1117,Finleyfort Port,LY,728173,Operational
+PORT_bb89985f,New Caseyport Port,TG,3419366,Operational
+PORT_71e08a4e,Lake Christopher Port,NP,4667155,Operational
+PORT_7bb07590,Port Cynthiaville Port,TG,4003758,Operational
+PORT_0c6f0564,Jacksonport Port,NP,3769560,Operational
+PORT_7c16b30e,North Markton Port,IS,790588,Operational
+PORT_bf0d29f5,Michaelchester Port,BZ,1868885,Operational
+PORT_4206a7fe,East Amanda Port,BG,2050991,Operational
+PORT_21344cde,East Gregory Port,MM,4888441,Operational
+PORT_e3a790cc,Harveybury Port,PL,3979996,Operational
+PORT_6d08f6cc,Durhamberg Port,UG,2893646,Operational
+PORT_7094d73b,South Dana Port,TN,4626993,Operational
+PORT_fc2b6f2e,Scotttown Port,IQ,2961200,Operational
+PORT_f83ac7b2,Santanaside Port,CU,2282611,Operational
+PORT_ec3d232d,North Scott Port,MM,2118926,Operational
+PORT_5469db66,Vanessaport Port,MT,1022134,Operational
+PORT_10425c69,Vaughnmouth Port,LY,2657008,Operational
+PORT_ffb10483,Jamesfurt Port,NL,4505152,Operational
+PORT_ad04d5aa,Rodriguezfurt Port,BY,1616762,Operational
+PORT_d6235504,Baileyport Port,PK,4071752,Operational
+PORT_e394b4dc,Port Dominiqueview Port,HR,4955813,Operational
+PORT_0ee63bc7,New Michelleton Port,UG,2383965,Operational
+PORT_6733fe9a,Wallport Port,TJ,1638376,Operational
+PORT_a2c3ce96,New Laurie Port,BZ,1918267,Operational
+PORT_9f179f84,Lake James Port,HN,1515264,Operational
+PORT_73d63c1d,Ericaberg Port,ZW,128685,Operational
+PORT_46213476,Lake Debbieport Port,MV,1071854,Operational
+PORT_487c7535,Johnsonstad Port,HR,391813,Operational
+PORT_c040173b,North Renee Port,ST,4651911,Operational
+PORT_6208f64f,Julieburgh Port,BZ,1069309,Operational
+PORT_ab1d199d,East Kristin Port,NP,870567,Operational
+PORT_d06e7300,Alyssaview Port,AR,4825599,Operational
+PORT_63cab112,West Robin Port,JP,3947586,Operational
+PORT_263f1c2b,Coffeyport Port,AE,3704920,Operational
+PORT_963886d9,Lindamouth Port,KZ,1556554,Operational
+PORT_dcecfad6,East Karenbury Port,ST,2127942,Operational
+PORT_f76e7531,Coffeyside Port,AE,967032,Operational
+PORT_61f2680e,Christopherfurt Port,AU,3371377,Operational
+PORT_a2ff7abe,West Amandamouth Port,NP,631446,Operational
+PORT_c118cb54,Emilyview Port,ST,1282778,Operational
+PORT_1e1e7a83,Carsonstad Port,DJ,4731440,Operational
+PORT_8c0ef9e1,Lake Jesustown Port,ZW,724549,Operational
+PORT_9a84bfab,Rosebury Port,YE,1003643,Operational
+PORT_b572fa3c,Lake Madisonport Port,GH,1903200,Operational
+PORT_59d8a1c0,Wilsonton Port,CG,3200842,Operational
+PORT_d2daac61,West Wendyville Port,CV,3723812,Operational
+PORT_dd8302e4,East Paigeberg Port,ZW,4946906,Operational
+PORT_b5ab9945,Chavezside Port,TN,2571715,Operational
+PORT_b297d29e,Matthewsberg Port,UA,842431,Operational
+PORT_fe7c0b5b,Penafort Port,BD,1780207,Operational
+PORT_c5592e5f,Crosbyview Port,FI,691049,Operational
+PORT_c0589efe,Lake Mitchellmouth Port,NO,2022134,Operational
+PORT_ae815d06,Sampsonstad Port,LU,4640446,Operational
+PORT_ff0477ad,Lake Michaelstad Port,BW,1323090,Operational
+PORT_e3013deb,South Joshuaville Port,DZ,3436893,Operational
+PORT_947211e3,Davisborough Port,CV,4991249,Operational
+PORT_c385c709,North Kristinbury Port,SO,2453260,Operational
+PORT_936610d3,Port Anne Port,LK,1951763,Operational
+PORT_3caf5407,Port Kathyborough Port,JP,2381613,Operational
+PORT_a00edab7,Port Molly Port,CU,607099,Operational
+PORT_11869cdb,Kimtown Port,MT,2229245,Operational
+PORT_13b0723b,Micheleberg Port,IN,3576324,Operational
+PORT_f48f1c0e,New John Port,ME,4578120,Operational
+PORT_3aa6ee73,North Donna Port,CM,1259813,Operational
+PORT_a322ad09,East Alexisbury Port,BJ,1203164,Operational
+PORT_72cba802,Alfredview Port,BW,510280,Operational
+PORT_93d35cd3,East Judyhaven Port,GM,2590434,Operational
+PORT_26aa8738,Lake Brycemouth Port,JP,3693886,Operational
+PORT_252f0223,Williamville Port,NL,3941723,Operational
+PORT_ae8f1a3a,Gordonton Port,ZW,3386486,Operational
+PORT_0315d273,Stephentown Port,BJ,4208264,Operational
+PORT_270fc0d4,South Melaniechester Port,SM,4152254,Operational
+PORT_39900d33,South Jennifermouth Port,BA,684795,Operational
+PORT_2dc0e7e9,North Marcberg Port,GD,3634119,Operational
+PORT_e1d5a6f9,East Joshuashire Port,GE,2110238,Operational
+PORT_88a84f45,Oscarhaven Port,GR,776105,Operational
+PORT_ba8062be,Shawnchester Port,MT,4835119,Operational
+PORT_b194e1d5,Port Jacquelineside Port,IS,2270822,Operational
+PORT_c7b5bb6f,South Shannon Port,GD,1479606,Operational
+PORT_fa8d6a57,South Matthew Port,SO,4363384,Operational
+PORT_acd5d26e,Rossville Port,BA,2343346,Operational
+PORT_cb0c9d46,Ronaldview Port,BY,4920100,Operational
+PORT_a079d32b,Stephaniefort Port,SB,4134894,Operational
+PORT_6f3ff486,North Marieland Port,UY,3952732,Operational
+PORT_be3afde8,Davisstad Port,BN,3435472,Operational
+PORT_e085b787,New Brian Port,IQ,2703231,Operational
+PORT_82ab4c29,Elizabethchester Port,VC,1359096,Operational
+PORT_fa73eae5,Morganchester Port,IQ,3463129,Operational
+PORT_7f2e6c4f,West Carolinestad Port,TV,2427746,Operational
+PORT_3f00985b,New Williamberg Port,BG,4624544,Operational
+PORT_2c155a96,Walkerville Port,LK,3825356,Operational
+PORT_fc8f4ddd,Meganstad Port,UY,2648361,Operational
+PORT_0917c723,Port Joshuabury Port,ML,2721817,Operational
+PORT_8bbbb918,Bruceside Port,ME,3400466,Operational
+PORT_98cd728d,New Sarahview Port,TW,19655,Operational
+PORT_415f6c6f,East Joshuaport Port,SM,3885338,Operational

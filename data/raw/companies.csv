@@ -1,0 +1,251 @@
+id,name,industry,revenue_b,country_id
+COM_0000,Bell-White,Textiles,6.37,CG
+COM_0001,Knight Group,Pharma,62.64,TV
+COM_0002,Thomas Ltd,Aerospace,44.76,ST
+COM_0003,Davis PLC,Automotive,27.44,PE
+COM_0004,Bennett Group,Pharma,44.37,NP
+COM_0005,Moore-Collins,Electronics,3.86,TG
+COM_0006,Frank-Bradley,Aerospace,16.68,AR
+COM_0007,Ware and Sons,Energy,41.39,CM
+COM_0008,Webster Inc,Electronics,46.68,NL
+COM_0009,"Miller, Ramos and Coleman",Aerospace,83.38,TV
+COM_0010,"Ramos, Nelson and Fischer",Aerospace,29.89,BJ
+COM_0011,Reed Inc,Textiles,83.64,SO
+COM_0012,Gregory-Watkins,Automotive,46.22,AF
+COM_0013,"Estrada, Williams and Foster",Textiles,19.87,TW
+COM_0014,"Brown, Harris and Dougherty",Aerospace,88.05,AU
+COM_0015,Duran LLC,Pharma,77.49,GH
+COM_0016,Wilson-Jimenez,Pharma,93.49,SA
+COM_0017,Thompson-James,Pharma,82.23,JP
+COM_0018,"Hall, Hansen and Barnett",Aerospace,30.56,NP
+COM_0019,Jones-Hensley,Automotive,45.21,AE
+COM_0020,Graham Group,Pharma,33.91,SM
+COM_0021,Atkins PLC,Textiles,46.08,GE
+COM_0022,Berry-Mckinney,Automotive,98.1,TG
+COM_0023,Roberts-Sullivan,Energy,38.91,KW
+COM_0024,Jackson-Meza,Electronics,32.5,SO
+COM_0025,Collier-Gillespie,Aerospace,91.43,IR
+COM_0026,Kim Inc,Textiles,98.85,DJ
+COM_0027,Graham Group,Textiles,96.52,PE
+COM_0028,"Miller, Harrell and Reese",Energy,96.57,IQ
+COM_0029,Cook and Sons,Electronics,87.54,BA
+COM_0030,Dixon Inc,Electronics,53.07,CU
+COM_0031,"Hicks, Bullock and Bailey",Electronics,72.52,KW
+COM_0032,"Mullen, Brewer and Hernandez",Aerospace,97.03,BW
+COM_0033,Thomas and Sons,Textiles,78.37,FI
+COM_0034,Morrison Ltd,Pharma,62.7,LA
+COM_0035,Thompson Ltd,Aerospace,8.95,IQ
+COM_0036,Marshall-Elliott,Aerospace,86.07,IR
+COM_0037,"Cole, Glass and Cunningham",Pharma,63.05,NP
+COM_0038,"Downs, Morris and Maddox",Energy,4.55,AU
+COM_0039,Hernandez-Jones,Automotive,63.48,JP
+COM_0040,Welch-Hogan,Automotive,74.93,SB
+COM_0041,"Brown, Romero and Collins",Electronics,76.28,TJ
+COM_0042,Johnson-Wood,Textiles,17.47,ZW
+COM_0043,Jones-Lin,Electronics,5.55,UA
+COM_0044,Gilbert PLC,Pharma,36.49,SB
+COM_0045,Ford-Spencer,Automotive,25.18,KW
+COM_0046,"Huang, Cole and Pacheco",Energy,68.5,BY
+COM_0047,"Lopez, Jacobs and Mason",Automotive,18.33,IR
+COM_0048,Hayes LLC,Energy,68.63,TV
+COM_0049,"Miller, Lucas and Williams",Energy,15.17,CH
+COM_0050,"Kim, Gonzales and Mills",Aerospace,26.14,ML
+COM_0051,Cox LLC,Aerospace,1.93,CH
+COM_0052,Ortiz-Morgan,Pharma,68.08,NO
+COM_0053,"Williams, Mccoy and Cook",Electronics,44.73,BN
+COM_0054,Davis-Gregory,Energy,30.62,TN
+COM_0055,King-York,Aerospace,25.76,ZW
+COM_0056,"Marks, Cook and Aguilar",Automotive,99.94,AE
+COM_0057,Rangel LLC,Electronics,24.48,SN
+COM_0058,"Hale, Myers and Larson",Energy,30.29,BZ
+COM_0059,Collins Group,Electronics,97.82,LA
+COM_0060,"Conner, Li and Santiago",Pharma,1.8,ST
+COM_0061,"Osborn, Gaines and Davis",Energy,74.77,JP
+COM_0062,"Henderson, Cox and Cox",Automotive,61.1,SN
+COM_0063,Bean LLC,Automotive,64.03,ML
+COM_0064,Lee-Cooke,Aerospace,75.8,IT
+COM_0065,Jones Inc,Aerospace,10.62,GD
+COM_0066,"Wise, Conley and Stephenson",Pharma,79.07,LK
+COM_0067,Stanley PLC,Energy,37.12,PE
+COM_0068,Harper and Sons,Electronics,91.05,GE
+COM_0069,White Ltd,Aerospace,42.13,IN
+COM_0070,"Lamb, Martin and Kim",Automotive,78.86,HN
+COM_0071,Diaz-Ball,Energy,50.68,BJ
+COM_0072,Bishop-Goodwin,Automotive,26.44,AE
+COM_0073,Young-Allen,Pharma,74.91,KZ
+COM_0074,Mckee-Lee,Electronics,47.36,BW
+COM_0075,"Valentine, Joyce and Murray",Automotive,75.66,CM
+COM_0076,Strickland-Shaw,Aerospace,72.7,LA
+COM_0077,Burch-Montoya,Energy,37.21,LA
+COM_0078,"Taylor, Wright and Davidson",Electronics,27.18,NL
+COM_0079,Spencer-Garcia,Textiles,37.49,FI
+COM_0080,"Rosales, Mitchell and Hines",Energy,38.72,PL
+COM_0081,Cole-Palmer,Electronics,67.81,SO
+COM_0082,Davis-Lozano,Electronics,62.34,GE
+COM_0083,Wilkerson-Arias,Energy,22.92,AU
+COM_0084,Brown-Shaw,Aerospace,82.56,ZW
+COM_0085,Hughes Inc,Aerospace,41.42,IT
+COM_0086,Walker-Flores,Electronics,94.68,ZW
+COM_0087,Combs Ltd,Textiles,12.5,TG
+COM_0088,Moody-Taylor,Energy,14.43,CU
+COM_0089,Lowery-Kennedy,Pharma,67.38,SM
+COM_0090,Blake Group,Textiles,59.15,DJ
+COM_0091,Gilbert-Bullock,Textiles,65.84,NP
+COM_0092,Scott and Sons,Energy,41.4,HR
+COM_0093,"Bentley, Lynch and Henderson",Electronics,69.34,PK
+COM_0094,Young-Martinez,Textiles,45.02,TG
+COM_0095,Barnes PLC,Pharma,10.84,PL
+COM_0096,Brown-Copeland,Energy,90.27,SN
+COM_0097,Carlson-Smith,Electronics,40.42,LY
+COM_0098,"Andrews, Higgins and Carter",Electronics,94.95,CU
+COM_0099,Mendez and Sons,Electronics,66.61,IS
+COM_0100,"Butler, Beck and Miller",Electronics,78.89,YE
+COM_0101,Jones-Fox,Automotive,78.91,BD
+COM_0102,"Hartman, Romero and Smith",Electronics,83.15,BD
+COM_0103,Williams-Hughes,Energy,22.38,MT
+COM_0104,King-Smith,Pharma,77.66,DZ
+COM_0105,Cooper Ltd,Pharma,85.98,AF
+COM_0106,"Fuller, Ingram and Moss",Automotive,54.48,LU
+COM_0107,Anderson-Bell,Electronics,66.44,GR
+COM_0108,Li-Thompson,Automotive,2.47,TG
+COM_0109,"Marshall, Dominguez and Welch",Energy,33.05,LU
+COM_0110,Brown Group,Pharma,6.19,GH
+COM_0111,Carter Inc,Energy,12.25,AU
+COM_0112,Blackwell LLC,Textiles,45.38,HN
+COM_0113,Robertson-Hays,Energy,59.77,CV
+COM_0114,"Kennedy, Johnson and Lucas",Energy,22.93,GD
+COM_0115,Kelly-Norman,Aerospace,78.54,CG
+COM_0116,"Rivera, Martinez and Richardson",Pharma,46.35,GR
+COM_0117,Paul-Kline,Electronics,99.86,BG
+COM_0118,Morgan-Lopez,Textiles,68.92,NP
+COM_0119,"Jimenez, Glass and Stone",Aerospace,91.06,BW
+COM_0120,Acosta Inc,Electronics,32.89,AF
+COM_0121,Morrison-Short,Electronics,13.49,GE
+COM_0122,"Carter, Garcia and Murphy",Textiles,99.47,UG
+COM_0123,Parker-Morrison,Pharma,45.92,SB
+COM_0124,Jackson-Wallace,Electronics,79.52,ME
+COM_0125,Williams-Berg,Aerospace,65.44,PK
+COM_0126,Mendez-Graham,Textiles,45.7,MT
+COM_0127,"Whitney, Gould and Jones",Textiles,34.55,CU
+COM_0128,"Sullivan, Palmer and Brady",Textiles,42.18,TJ
+COM_0129,Cisneros and Sons,Pharma,43.25,ML
+COM_0130,"Gregory, Kim and Martinez",Pharma,95.41,SO
+COM_0131,Osborne LLC,Electronics,10.03,HT
+COM_0132,Reyes-Bradley,Electronics,43.76,PL
+COM_0133,"Hernandez, Cole and Watson",Automotive,56.08,IQ
+COM_0134,Hines-Berry,Aerospace,13.1,SN
+COM_0135,"Richardson, Edwards and Ramirez",Aerospace,94.17,TN
+COM_0136,Johnson and Sons,Aerospace,6.09,JP
+COM_0137,Holmes-Mcintyre,Energy,31.93,VC
+COM_0138,Green LLC,Energy,51.23,DJ
+COM_0139,"Griffin, Davies and Mitchell",Aerospace,48.74,VC
+COM_0140,Gonzalez-Taylor,Pharma,84.69,PL
+COM_0141,Hayes Ltd,Electronics,76.5,CM
+COM_0142,Osborn-Cochran,Textiles,84.67,GR
+COM_0143,Contreras-Mckinney,Energy,92.98,BJ
+COM_0144,"Daniels, Vance and York",Electronics,18.86,MM
+COM_0145,"Mckinney, Graves and Thompson",Pharma,35.75,BY
+COM_0146,Hicks-Martinez,Automotive,57.07,BG
+COM_0147,Conner and Sons,Electronics,15.05,GR
+COM_0148,Johnson-Spencer,Electronics,74.87,PK
+COM_0149,Mcdonald-Bird,Textiles,42.56,KZ
+COM_0150,Salazar Inc,Automotive,37.64,GE
+COM_0151,Parker Ltd,Energy,60.03,ST
+COM_0152,"Mendoza, Jenkins and Ortiz",Automotive,16.58,ST
+COM_0153,"Jones, Compton and Day",Aerospace,9.08,BA
+COM_0154,Owens-Holmes,Aerospace,42.98,BA
+COM_0155,Humphrey PLC,Textiles,28.04,TW
+COM_0156,"Matthews, Saunders and Anderson",Electronics,35.17,ME
+COM_0157,"Bartlett, Brown and Martinez",Pharma,68.14,NP
+COM_0158,Torres and Sons,Energy,67.05,GD
+COM_0159,Donovan-Perez,Automotive,40.13,UA
+COM_0160,"Jacobson, Singleton and King",Electronics,21.24,PK
+COM_0161,"Huber, Hill and Weber",Automotive,76.65,BZ
+COM_0162,"Ferguson, Shaw and Jackson",Pharma,12.88,TV
+COM_0163,"Moore, Hopkins and Le",Aerospace,43.63,PE
+COM_0164,"Morgan, Bradshaw and Williams",Textiles,53.73,MT
+COM_0165,Miller Ltd,Energy,56.31,SN
+COM_0166,"Baker, Clark and Armstrong",Electronics,40.31,GD
+COM_0167,"Fowler, Jimenez and Burton",Textiles,2.86,BW
+COM_0168,May-Turner,Pharma,58.0,BG
+COM_0169,Ballard Ltd,Aerospace,64.37,BZ
+COM_0170,Evans-Jones,Electronics,41.1,GE
+COM_0171,Moore Group,Automotive,80.33,CU
+COM_0172,Marshall-Peterson,Aerospace,92.06,UY
+COM_0173,Edwards Ltd,Textiles,84.6,YE
+COM_0174,Gross-Valencia,Textiles,59.3,UG
+COM_0175,Anderson-Wood,Electronics,40.18,MM
+COM_0176,"Rodriguez, Allen and Martinez",Aerospace,34.61,IQ
+COM_0177,Wright-Davis,Automotive,8.56,ME
+COM_0178,Dougherty-Lin,Energy,51.49,BN
+COM_0179,Wright-Grimes,Pharma,73.01,AF
+COM_0180,Li PLC,Automotive,11.18,ML
+COM_0181,"Edwards, Hines and Jimenez",Automotive,18.18,DJ
+COM_0182,"Owens, Koch and Jimenez",Aerospace,8.46,TV
+COM_0183,Landry PLC,Textiles,75.69,CV
+COM_0184,Levy-Lewis,Aerospace,92.49,GE
+COM_0185,Williams-Campbell,Aerospace,32.3,BA
+COM_0186,"Khan, Pena and Ruiz",Electronics,47.42,ZW
+COM_0187,"Smith, Rodriguez and Anderson",Pharma,59.55,SN
+COM_0188,Luna-Gallagher,Energy,8.34,CH
+COM_0189,Williams-Williams,Textiles,4.72,PL
+COM_0190,"Lee, Tran and Jones",Pharma,8.6,UY
+COM_0191,"Cole, Pierce and Bryan",Energy,59.81,TH
+COM_0192,"Becker, Wilson and Hester",Textiles,58.45,GD
+COM_0193,Brooks-Hatfield,Textiles,91.0,LY
+COM_0194,"Mcmillan, Fischer and Gonzalez",Pharma,60.9,SA
+COM_0195,"Morales, Williams and Williams",Automotive,95.81,CV
+COM_0196,"Cook, Wells and Bryant",Electronics,81.29,KZ
+COM_0197,"Barry, Taylor and Velazquez",Aerospace,9.35,LU
+COM_0198,Martin-Ewing,Electronics,25.53,BA
+COM_0199,"Kirby, Wheeler and Romero",Textiles,52.88,NO
+COM_0200,"Patel, Erickson and Evans",Pharma,37.91,JP
+COM_0201,Richardson Ltd,Textiles,41.47,KZ
+COM_0202,Whitney PLC,Aerospace,60.19,IQ
+COM_0203,Robles-Swanson,Electronics,33.64,TH
+COM_0204,"Soto, Carlson and Baker",Pharma,25.95,DJ
+COM_0205,"Patton, Parsons and Lane",Pharma,9.07,AF
+COM_0206,"Williams, Castillo and Warren",Pharma,31.71,LA
+COM_0207,"Harvey, Randall and Hernandez",Automotive,59.91,HT
+COM_0208,"Allen, Armstrong and Graves",Pharma,56.33,IQ
+COM_0209,Smith LLC,Automotive,67.34,UG
+COM_0210,Hernandez-Vaughn,Electronics,64.96,TN
+COM_0211,Shaw-Carr,Energy,36.82,HN
+COM_0212,Salas-Fitzgerald,Pharma,18.85,PK
+COM_0213,Thornton PLC,Pharma,94.82,NP
+COM_0214,Hoffman Ltd,Automotive,23.43,IT
+COM_0215,Fox-Edwards,Automotive,8.64,TJ
+COM_0216,Stevens PLC,Energy,77.32,UG
+COM_0217,Payne-Lowe,Electronics,66.53,PE
+COM_0218,"Becker, Lara and Baker",Energy,38.3,NO
+COM_0219,Lee-Wright,Automotive,83.3,GM
+COM_0220,"Evans, David and Hendrix",Aerospace,44.33,KW
+COM_0221,Bush-Vaughn,Pharma,67.96,TG
+COM_0222,Stewart-Bailey,Textiles,61.45,CV
+COM_0223,"Hill, Martinez and Rhodes",Automotive,53.87,MM
+COM_0224,Huang-Foster,Textiles,90.49,LY
+COM_0225,Blevins-Ballard,Pharma,68.15,BA
+COM_0226,Williams-Moses,Textiles,77.17,IR
+COM_0227,Reed Group,Energy,53.22,NO
+COM_0228,"Scott, Mendoza and Harris",Automotive,80.32,IT
+COM_0229,"Nelson, Hoffman and Nelson",Pharma,6.17,AE
+COM_0230,Gilbert PLC,Pharma,55.9,VC
+COM_0231,Sanchez Ltd,Aerospace,84.74,NL
+COM_0232,"Perez, Hall and Garcia",Pharma,9.3,NO
+COM_0233,Love-Garcia,Pharma,45.48,TW
+COM_0234,Smith PLC,Automotive,83.27,UY
+COM_0235,Russell Group,Automotive,81.85,BN
+COM_0236,Santos-Avila,Electronics,42.07,LA
+COM_0237,Morris-Brewer,Energy,38.02,TH
+COM_0238,Pearson and Sons,Electronics,38.12,GR
+COM_0239,"Rodgers, Jefferson and Johnson",Pharma,93.15,IQ
+COM_0240,Butler and Sons,Automotive,14.62,JP
+COM_0241,Osborn Group,Textiles,69.91,IT
+COM_0242,Lopez-Curry,Aerospace,47.44,DZ
+COM_0243,Mcdowell-Smith,Electronics,2.88,PK
+COM_0244,"Morrison, Hebert and Rogers",Automotive,55.33,UG
+COM_0245,Hays-Daniels,Textiles,12.01,JP
+COM_0246,Small-Anderson,Automotive,30.81,ST
+COM_0247,"Mcdonald, Lee and Rodriguez",Automotive,42.56,CU
+COM_0248,Simon Ltd,Electronics,11.97,TV
+COM_0249,Higgins-Smith,Energy,54.07,TW
